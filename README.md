@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi folks 👋
 
 - 🔭 I’m currently learning Full Stack Development with a focus on the MERN stack
 - 🌱 Skills : Proficient in Java, SQL, React, and Python
